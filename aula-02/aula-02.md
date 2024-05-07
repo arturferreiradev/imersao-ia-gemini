@@ -38,6 +38,7 @@ Few-shot Chain-of-Thought prompting é uma extensão da técnica Few-shot prompt
 [Resposta](assets/Desafio1.docx) gerada pelo Google AI Studio.
 
 2. Escolha 10 textos do seu site de notícias preferido. Apresente para o Google AI Studio o padrão dos títulos e das suas respectivas notícias e quando chegar no décimo primeiro texto, apresente somente a notícia e peça para ele gerar um título. Veja se existe alguma técnica ou padrão; ✅
+
 ![GIF Desafio 02](assets/Desafio2.gif)
 [Tabela Desafio 02](assets/Desafio2.csv) utilizada para input de dados no [Google AI Studio](https://aistudio.google.com/).  
 [Resposta](assets/Desafio2.docx) gerada pelo Google AI Studio.
