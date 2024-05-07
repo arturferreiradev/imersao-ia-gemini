@@ -20,7 +20,7 @@ O curso abrange uma variedade de tópicos, incluindo:
 - Modelagem de Dados
 - Avaliação de Modelos
 - Aplicações Práticas de IA
-- Clique [aqui](./aula-01/aula-01.md) para acessar a primeira aula.
+- Clique [aqui](./aula-01/aula-01.md) para acessar as atividades da primeira aula.
 
 ## Contribuições
 
