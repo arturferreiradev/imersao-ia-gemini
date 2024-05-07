@@ -9,14 +9,14 @@ Nesta aula, exploraremos os conceitos fundamentais de inteligência artificial e
 Utilize o Gemini ou o Google AI Studio para automatizar algum processo do seu dia a dia no trabalho. Isso pode incluir tarefas repetitivas que consomem tempo, como a análise de dados, a geração de relatórios,etc.
 
 Criei uma tabela com os melhores episódios de naruto, automatizando um hoobie:
-![GIF Histórico](./historico.gif)
+![GIF Histórico](./historico.gif)  
 [Naruto](./naruto.csv) gerado pelo Gemini.
 
 ### 2. Análise do Histórico do Google Chrome com Gemini ✅
 
 Utilize uma extensão para extrair o histórico do Google Chrome e peça para o Gemini tirar conclusões sobre como você tem usado o seu tempo online. Peça para o Gemini criar um resumo do que você mais acessa, a quantidade de uso e o tipo de site.
 
-![GIF Histórico](./historico.gif)
+![GIF Histórico](./historico.gif)  
 [Resumo](./historico.csv) gerado pelo Gemini.
 
 
