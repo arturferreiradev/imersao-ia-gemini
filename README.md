@@ -27,7 +27,7 @@ Se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à v
 
 ## Autores do Curso
 
-O curso foi desenvolvido por especialistas em IA da Alura em colaboração com especialistas do Google.
+O curso foi desenvolvido por especialistas em IA da Alura em colaboração com especialistas do Google: [Fabrício Carraro](https://www.linkedin.com/in/fabriciocarraro/), [Paulo Silveira](https://www.linkedin.com/in/paulosilveira/), [Ana Raquel](https://www.linkedin.com/in/ana-raquel-fernandes-cunha-a48a07a0/) e [Luciano Martins](https://www.linkedin.com/in/lucianommartins/).
 
 ---
 
