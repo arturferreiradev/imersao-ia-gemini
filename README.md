@@ -21,6 +21,7 @@ O curso abrange uma variedade de tópicos, incluindo:
 - Avaliação de Modelos
 - Aplicações Práticas de IA
 - Clique [aqui](./aula-01/aula-01.md) para acessar as atividades da primeira aula.
+- Clique [aqui](./aula-02/aula-02.md) para acessar as atividades da segunda aula.
 
 ## Contribuições
 
