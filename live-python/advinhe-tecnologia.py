@@ -9,9 +9,9 @@ valor_secreto = random.choice(data);
 palavra_secreta = valor_secreto['palavra'];
 dica = valor_secreto['dica'];
 
-chute = input(f'A palavra secreta tem {len(palavra_secreta)} letras -> {dica}');
+chute = input(f'A palavra secreta tem {len(palavra_secreta)} letras -> {dica}\n');
 
 if(chute == palavra_secreta):
-    print('Acertou');
+    println('Acertou');
 else:
     print(f'Errou.. a palavra secreta era {palavra_secreta}');
