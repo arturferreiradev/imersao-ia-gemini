@@ -22,7 +22,7 @@ O curso abrange uma variedade de tópicos, incluindo:
 - Aplicações Práticas de IA
 - Clique [aqui](./aula-01/aula-01.md) para acessar as atividades da primeira aula.
 - Clique [aqui](./aula-02/aula-02.md) para acessar as atividades da segunda aula.
-- Clique [aqui](./aula-01/aula-03.md) para acessar as atividades da primeira aula.
+- Clique [aqui](./aula-03/aula-03.md) para acessar as atividades da primeira aula.
 
 ## Contribuições
 
