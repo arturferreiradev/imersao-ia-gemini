@@ -2,7 +2,7 @@ import requests;
 import random;
 
 # Variáveis criadas para armazenar os valores obtidos através da request
-url = 'https://raw.githubusercontent.com/guilhermeonrails/api-imersao-ia/main/words.json';
+url = 'https://raw.githubusercontent.com/arturferreiradev/imersao-ia-gemini/main/live-python/words.json';
 resposta = requests.get(url);
 data = resposta.json();
 valor_secreto = random.choice(data);
